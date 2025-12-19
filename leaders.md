@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Muhammad Zain Masood](mailto:zain.masood@owasp.org)
+* [Moazzam Shabbir Khokhar](mailto:moazzam.khokhar@owasp.org)
+* [Atiya Sharf](mailto:atiya.sharf@owasp.org)
