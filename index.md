@@ -9,10 +9,24 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<div style='color:black;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Welcome to the Official OWASP Chapter for Islamabad, Pakistan.
 
+We are a coalition of developers, security professionals, students, and technology leaders united by a common mission: to make application security visible and integral to the software ecosystem of Islamabad and beyond. As the nation's digital capital, Islamabad drives innovation; our purpose is to ensure that innovation is secure by design.
+
+Our Mission:
+To foster a collaborative, open-source community in Islamabad that empowers individuals and organizations to build, procure, and maintain trustworthy software. We provide a neutral forum for education, cutting-edge research, and the free exchange of ideas to tackle the most critical application security challenges facing our region.
+
+What We Do:
+• Host meetings & workshops featuring local and international experts.
+• Facilitate hands-on training on OWASP projects (like the Top 10, ZAP, ASVS, and Cheat Sheets).
+• Build bridges between academia, industry, and government to advance cybersecurity practices.
+• Promote a "shift-left" security culture among developers and startups in Pakistan's Silicon Valley.
+
+Join us to learn, share, and contribute. Whether you're a seasoned AppSec professional or just beginning your security journey, you have a place here. Together, we can harden the code that powers our future.
+
+Connect. Learn. Secure.
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
 
