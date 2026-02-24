@@ -10,7 +10,7 @@ meetup-group:
 ---
 
 <div style='color:red;'>
-In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
