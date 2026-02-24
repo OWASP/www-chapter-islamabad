@@ -8,7 +8,6 @@ country: Pakistan
 meetup-group:
 
 ---
-
 ## Welcome
 Include some information here about your chapter
 
