@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Past Events
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Example
+## Past Events
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Cybersecurity Awareness & Tech Talk Session (SEECS Seminar Hall, NUST)
