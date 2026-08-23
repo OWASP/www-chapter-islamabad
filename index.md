@@ -36,6 +36,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 Webinar - Why Mobile Apps Need a Real Security Strategy
+Date: Tuesday, 25 August 2026
+Time: 3:00 PM PKT
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
